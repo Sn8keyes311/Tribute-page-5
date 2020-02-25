@@ -8,7 +8,12 @@
       He helped in the freedom of slaves in America.
       <br>
       He also brought the state's back together after the civil-war.
+      <br>
+      Everyone know's of his greatness. 
+      <br>
+      They built a great statue to his likeness.
     </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lincoln_statue%2C_Lincoln_Memorial.jpg">
   </body>
  <style>
      body{
