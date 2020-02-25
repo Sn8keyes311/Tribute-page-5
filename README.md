@@ -10,7 +10,7 @@
      body{
             background-color:rgb(14, 232, 240);
    }
-   p{
+   h1{
    color:rgb(247, 5, 21);
    }
     </style>
