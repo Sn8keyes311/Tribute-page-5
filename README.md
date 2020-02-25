@@ -13,5 +13,8 @@
    h1{
    color:rgb(247, 5, 21);
    }
+   p{
+   color:rgb(250, 250, 250);
+   }
     </style>
   </html>
