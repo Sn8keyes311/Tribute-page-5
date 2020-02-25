@@ -5,8 +5,9 @@
     <p>
       This is a great man.
       <br>
-      He helped in the freedom of slaves in america.
+      He helped in the freedom of slaves in America.
       <br>
+      He also brought the state's back together after the civil-war.
     </p>
   </body>
  <style>
