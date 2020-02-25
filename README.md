@@ -17,7 +17,7 @@
   </body>
  <style>
    #main{
-   float:center;
+   float:right;
    }
      body{
             background-color:rgb(14, 232, 240);
