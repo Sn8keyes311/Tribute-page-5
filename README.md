@@ -12,6 +12,20 @@
       Everyone know's of his greatness. 
       <br>
       They built a great statue to his likeness.
+      <br>
+      He was assassinated by a low life.
+      <br>
+      The low life was trying to divide this
+      <br>
+      great country!
+      <br>
+      I'm happy to say that
+      <br>
+      the low life did not succeed.
+      <br>
+      This country has stayed together 
+      <br>
+      and remained strong.
     </p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lincoln_statue%2C_Lincoln_Memorial.jpg">
   </body>
